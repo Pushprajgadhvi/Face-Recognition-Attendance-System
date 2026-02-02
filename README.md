@@ -1,4 +1,4 @@
-** Face Recognition Attendance System ** 
+## ** Face Recognition Attendance System ** 
 
 An automated attendance system using Computer Vision and Deep Learning that recognizes faces in real-time and records attendance without manual intervention. This project eliminates proxy attendance and improves accuracy, efficiency, and scalability in educational and organizational environments.
 
